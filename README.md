@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](cooltext418115235625696.png)
+
 | HORA 	|           LUNES           	|           MARTES          	|         MIERCOLES         	|           JUEVES          	|           VIERNES          	|
 |:----:	|:-------------------------:	|:-------------------------:	|:-------------------------:	|:-------------------------:	|:--------------------------:	|
 |  6AM 	|             -             	|             -             	|             -             	|             -             	|              -             	|
