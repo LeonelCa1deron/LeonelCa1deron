@@ -23,6 +23,17 @@ Here are some ideas to get you started:
 
 ![](cooltext418115235625696.png)
 
+A continuación, se muestra las asignaturas por cursar en este semestre actual y el horario de clases en cuestión:
+
+📚📚📚 ASIGNATURAS 📚📚📚
+* Gestión de Proyectos de Software.
+* Conmutación y Enrutamiento de Redes de Datos.
+* Sistemas Programables.
+* Desarrollo de Aplicaciones Móviles.
+
+
+🕒🕒🕒 HORARIO DE CLASES 🕒🕒🕒
+
 | HORA 	|           LUNES           	|           MARTES          	|         MIERCOLES         	|           JUEVES          	|           VIERNES          	|
 |:----:	|:-------------------------:	|:-------------------------:	|:-------------------------:	|:-------------------------:	|:--------------------------:	|
 |  6AM 	|             -             	|             -             	|             -             	|             -             	|              -             	|
