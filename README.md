@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](cooltext418115235625696.png)
 
 🤓🤓🤓🤓🤓🤓🤓 IMPORTANCIA DE MARKDOWN PARA DOCUMENTAR REPOSITORIOS PROFESIONALES EN GITHUB 🤓🤓🤓🤓🤓🤓🤓
-
+MARKDOWN es básicamente un método más legible con el propósito de poder escribir líneas de texto de una forma mucha más sencilla. Su importancia es la siguiente: tenemos lo que es dicho MARKDOWN y HTML, en HTML se hace uso de una serie de codificación por la cual permita realizar dicha acción, es decir, si nosotros queremos realizar la inserción de una fotografía en el HTML que nosotros trabajamos debemos de hacer uso del img src, etc, etc, el cual posteriormente eewngresaríamos lo que vendría siendo la fotografía que se util
 
 A continuación, se muestra las asignaturas por cursar en este semestre actual y el horario de clases en cuestión:
 
