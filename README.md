@@ -1,4 +1,4 @@
-![](cooltext418114964546444.png)
+   ![](cooltext418114964546444.png)
 👋 ¡Muchas gracias por visitar mi perfil!. 👋
 
 Hola me llamo Leonel, y estudio actuamente en el instituto tecnológico de tijuana (ITT) en la carrera de Ingeniería en Sistemas Computacionales 💻.
