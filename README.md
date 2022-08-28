@@ -1,5 +1,4 @@
-   ![](cooltext418114964546444.png)
-👋 ¡Muchas gracias por visitar mi perfil!. 👋
+![](cooltext418114964546444.png)
 
 Hola me llamo Leonel, y estudio actuamente en el instituto tecnológico de tijuana (ITT) en la carrera de Ingeniería en Sistemas Computacionales 💻.
 Desde mi niñez me ha interesado saber mucho acerca del funcionamiento de las computadoras y cómo estos se construidas. Posteriormente del área del Hardware, quize conocer a detalle el funcionamiento interno, es decir, la parte del Software, donde aparte de adquirir conocimiento de ello, utilizaría diversos lenguajes de programación para la elaboración de mis propios softwares/programas gracias a diversos lenguajes de programación que hoy en día conozco como lo son: C#, Java, Haskell, Prolog, C++, y entre otro más. Mis inicios con la programación comenzó en la Secundaria Técnica #49 "Raymundo Muzquiz", el cual fue una de las especialidades dispnibles en el instituto, el cual cursé dicha especialidad durante 3 años. Posteriormente fui a Cetis No.156, de igual forma con la especialidad de progrmación por mis conocimientos adquiridos en la secundaria y gracias a ello me fue excelente en dicho plantel. En base a lo anterior, es por lo que me encuentro cursando la carrera de Sistemas Computacionales con el objetivo de poder graduarme y utilizar mis conocimientos para elaborar diversos proyectos en el futuro.
