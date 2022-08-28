@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 ![](cooltext418115235625696.png)
 
+🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓 IMPORTANCIA DE MARKDOWN PARA DOCUMENTAR REPOSITORIOS PROFESIONALES EN GITHUB 🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓
+
+
 A continuación, se muestra las asignaturas por cursar en este semestre actual y el horario de clases en cuestión:
 
 📚📚📚 ASIGNATURAS 📚📚📚
