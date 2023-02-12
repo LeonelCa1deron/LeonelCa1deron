@@ -47,8 +47,8 @@ A continuación, se muestra las asignaturas por cursar en este semestre actual y
 | 11AM 	|             -             	|             -             	|             -             	|             -             	|              -             	|
 | 12PM 	|             -             	|             -             	|             -             	|             -             	|              -             	|
 |  1PM 	|             -             	|             -             	|             -             	|             -             	|              -             	|
-|  2PM 	| GES. DE PROY. DE SOFTWARE 	| GES. DE PROY. DE SOFTWARE 	| GES. DE PROY. DE SOFTWARE 	| GES. DE PROY. DE SOFTWARE 	| GES. DE PROY.  DE SOFTWARE 	|
-|  3PM 	|             -             	|             -             	|             -             	|             -             	|  GES. DE PROY. DE SOFTWARE 	|
+|  2PM 	|      PROGRAMACION WEB    	  |      PROGRAMACION WEB 	    |      PROGRAMACION WEB 	    |      PROGRAMACION WEB 	    |       PROGRAMACION WEB 	    |
+|  3PM 	|             -             	|             -             	|             -             	|             -             	|                           	|
 |  4PM 	|  C. Y E. DE RED. DE DAT.  	|   C. Y E. DE RE. DE DAT.  	|  C. Y E. DE RED. DE DAT.  	|  C. Y E. DE RED. DE DAT.  	|   C. Y E. DE RED. DE DAT.  	|
 |  5PM 	|   SISTEMAS PROGRAMABLES   	|   SISTEMAS PROGRAMABLES   	|   SISTEMAS PROGRAMABLES   	|   SISTEMAS PROGRAMABLES   	|    SISTEMAS PROGRAMABLES   	|
 |  6PM 	|   DES. DE  APPS MOVILES   	|   DES. DE  APPS MOVILES   	|   DES. DE  APPS MOVILES   	|   DES. DE  APPS MOVILES   	|    DES DE  APPS MOVILES    	|
